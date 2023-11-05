@@ -24,7 +24,7 @@ python main.py
 
 ### Testing
 
-Our evaluation divided into two parts - Sythetic data and Real data.
+Our evaluation divided into two parts - Synthetic data and Real data.
 For running the code with the synthetic data, change the variable as follow - 
 **evaluation = 'synth'**.
 For running the the code with the real data, we used a [Federated Learning paradigm](https://github.com/langnatalie/JoPEQ) that developed in Shlezinger lab by Natalie Lang and DR. Nir Shlezinger, so you have to change the variable - 
