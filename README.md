@@ -5,6 +5,8 @@
 --
 
 ## Usage
+This code has been tested on Python 3.7.3 and PyTorch 2.1.0.
+
 
 --
 
