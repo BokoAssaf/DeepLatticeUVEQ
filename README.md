@@ -8,11 +8,13 @@ This repository contains a basic PyTorch implementation of Data-Driven Lattice L
 This code has been tested on Python 3.7.3 and PyTorch 2.1.0.
 
 
---
-
 ### Prerequisite
-
---
+1. PyTorch=2.1.0: https://pytorch.org
+2. scipy
+3. tqdm
+4. matplotlib
+5. torchinfo
+6. TensorboardX: https://github.com/lanpa/tensorboardX
 
 ### Training
 
